@@ -8,9 +8,6 @@
 			<color>ff0000ff</color>
 			<width>2</width>
 		</LineStyle>
-		<PolyStyle>
-			<color>400000ff</color>
-		</PolyStyle>
 	</Style>
 	<Placemark>
 		<name>Haut Rhin</name>
