@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Colmar 1.kml</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff9600</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00d8e9ec</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00012">
+		<name>Colmar 1</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Colmar 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>nom du canton</td>
+
+<td>Colmar 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>numéro du canton</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle00</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							7.348759441064543,48.12616528327116,0 7.331806067388739,48.12100232187581,0 7.327429866935241,48.11667520022895,0 7.329340106773129,48.11416907554423,0 7.30217621162256,48.11610420009168,0 7.304210065322677,48.10629801664291,0 7.291167822686166,48.1056690652292,0 7.288290508956449,48.09495248119625,0 7.29656108636124,48.08926097538303,0 7.319161261670994,48.08932177036201,0 7.326319439664186,48.08688253602354,0 7.315517364280881,48.07047680464221,0 7.320781165276309,48.06997726728486,0 7.320002879710613,48.06581696689333,0 7.326200204832499,48.06429335043124,0 7.322824762302539,48.05997525016524,0 7.331760291592484,48.05627514085894,0 7.347891795033411,48.07193449645742,0 7.349478883914729,48.0779243435345,0 7.349910098419775,48.08355462471292,0 7.364118979510353,48.08122935601257,0 7.368297369329604,48.09121320653015,0 7.375062507930454,48.0956731288825,0 7.360783625341371,48.09404473747473,0 7.364160644244964,48.11669091235142,0 7.350017630693184,48.11723744547851,0 7.348556643206016,48.12489576294296,0 7.348759441064543,48.12616528327116,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
